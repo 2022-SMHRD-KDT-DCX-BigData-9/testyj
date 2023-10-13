@@ -17,7 +17,6 @@ import com.smhrd.bigdata.service.BoardService;
 public class MainController {
 	
 	//주석1
-	//주석2
 	
 	@Autowired
 	BoardService service;
